@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 241c11f7f4fc3894098f80f25cd3e716
+timeCreated: 1480074689
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rock 14_0
+    21300002: rock 14_1
+    21300004: rock 14_2
+    21300006: rock 14_3
+    21300008: rock 14_4
+    21300010: rock 14_5
+    21300012: rock 14_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rock 14_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1781
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.5, y: 0.5}
+        - {x: 73.5, y: 69.5}
+        - {x: 66.5, y: 85.5}
+        - {x: 61.5, y: 91.5}
+        - {x: -73.5, y: 91.5}
+        - {x: -73.5, y: -90.5}
+        - {x: -69.5, y: -91.5}
+        - {x: 16.5, y: -91.5}
+        - {x: 62.5, y: -46.5}
+        - {x: 72.5, y: -14.5}
+    - name: rock 14_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1479
+        width: 163
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.5, y: 14}
+        - {x: 31.5, y: 71}
+        - {x: 32.5, y: 128}
+        - {x: 22.5, y: 143}
+        - {x: -68.5, y: 143}
+        - {x: -81.5, y: 128}
+        - {x: -81.5, y: 12}
+        - {x: -78.5, y: 4}
+        - {x: -77.5, y: -117}
+        - {x: -55.5, y: -143}
+        - {x: 46.5, y: -143}
+        - {x: 71.5, y: -112}
+        - {x: 81.5, y: -96}
+        - {x: 81.5, y: -4}
+    - name: rock 14_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1289
+        width: 144
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 87}
+        - {x: -66, y: 71}
+        - {x: -72, y: 26}
+        - {x: -72, y: -85}
+        - {x: -71, y: -87}
+        - {x: 59, y: -87}
+        - {x: 72, y: -16}
+        - {x: 72, y: 86}
+        - {x: 63, y: 87}
+    - name: rock 14_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1059
+        width: 145
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.5, y: 13}
+        - {x: 39.5, y: 110}
+        - {x: -61.5, y: 110}
+        - {x: -71.5, y: 95}
+        - {x: -72.5, y: 90}
+        - {x: -72.5, y: -101}
+        - {x: -61.5, y: -110}
+        - {x: 64.5, y: -110}
+        - {x: 64.5, y: -102}
+        - {x: 72.5, y: -52}
+        - {x: 72.5, y: -8}
+    - name: rock 14_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 960
+        width: 169
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 43.5}
+        - {x: -84.5, y: 23.5}
+        - {x: -84.5, y: -31.5}
+        - {x: -53.5, y: -47.5}
+        - {x: 47.5, y: -47.5}
+        - {x: 84.5, y: -8.5}
+        - {x: 84.5, y: 36.5}
+        - {x: 81.5, y: 43.5}
+      - - {x: -70.5, y: 41.5}
+        - {x: -67.5, y: 42.5}
+        - {x: -67.5, y: 45.5}
+        - {x: -70.5, y: 46.5}
+        - {x: -72.5, y: 44.5}
+      - - {x: 52.5, y: 47.5}
+        - {x: 52.5, y: 44.5}
+        - {x: 54.5, y: 42.5}
+        - {x: 61.5, y: 42.5}
+        - {x: 63.5, y: 44.5}
+        - {x: 62.5, y: 47.5}
+    - name: rock 14_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 180
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: -136.5}
+        - {x: 86, y: -91.5}
+        - {x: 77, y: -51.5}
+        - {x: 61, y: -7.5}
+        - {x: 85, y: 34.5}
+        - {x: 90, y: 48.5}
+        - {x: 90, y: 97.5}
+        - {x: 87, y: 108.5}
+        - {x: 80, y: 130.5}
+        - {x: 57, y: 186.5}
+        - {x: 41, y: 232.5}
+        - {x: 40, y: 233.5}
+        - {x: -53, y: 233.5}
+        - {x: -57, y: 226.5}
+        - {x: -70, y: 196.5}
+        - {x: -89, y: 145.5}
+        - {x: -90, y: 143.5}
+        - {x: -90, y: 15.5}
+        - {x: -68, y: -11.5}
+        - {x: -74, y: -33.5}
+        - {x: -90, y: -81.5}
+        - {x: -90, y: -213.5}
+        - {x: -79, y: -224.5}
+        - {x: -60, y: -233.5}
+        - {x: 27, y: -233.5}
+        - {x: 35, y: -224.5}
+        - {x: 54, y: -197.5}
+        - {x: 77, y: -159.5}
+    - name: rock 14_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 151
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.5, y: -59}
+        - {x: 73.5, y: -54}
+        - {x: 73.5, y: 82}
+        - {x: 69.5, y: 124}
+        - {x: 65.5, y: 153}
+        - {x: 59.5, y: 193}
+        - {x: 55.5, y: 202}
+        - {x: 43.5, y: 214}
+        - {x: -52.5, y: 214}
+        - {x: -61.5, y: 205}
+        - {x: -75.5, y: 177}
+        - {x: -75.5, y: -187}
+        - {x: -70.5, y: -192}
+        - {x: -50.5, y: -210}
+        - {x: -39.5, y: -214}
+        - {x: 40.5, y: -214}
+        - {x: 51.5, y: -195}
+        - {x: 58.5, y: -169}
+        - {x: 75.5, y: -101}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 68959314ce04f364d991a7a730e40b07
+timeCreated: 1480074186
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rock 12_0
+    21300002: rock 12_1
+    21300004: rock 12_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rock 12_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 20
+        width: 249
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 124.5, y: 54}
+        - {x: 24.5, y: 77}
+        - {x: -74.5, y: 77}
+        - {x: -81.5, y: 74}
+        - {x: -124.5, y: 50}
+        - {x: -124.5, y: -26}
+        - {x: -67.5, y: -77}
+        - {x: 9.5, y: -77}
+        - {x: 26.5, y: -74}
+        - {x: 118.5, y: -40}
+        - {x: 124.5, y: -33}
+    - name: rock 12_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 8
+        width: 315
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157.5, y: 61}
+        - {x: 144.5, y: 81}
+        - {x: 63.5, y: 81}
+        - {x: -7.5, y: 75}
+        - {x: -55.5, y: 81}
+        - {x: -93.5, y: 81}
+        - {x: -114.5, y: 73}
+        - {x: -157.5, y: 50}
+        - {x: -157.5, y: -28}
+        - {x: -137.5, y: -59}
+        - {x: -93.5, y: -68}
+        - {x: -9.5, y: -81}
+        - {x: 55.5, y: -81}
+        - {x: 96.5, y: -71}
+        - {x: 131.5, y: -51}
+        - {x: 157.5, y: -29}
+    - name: rock 12_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 18
+        width: 266
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 77}
+        - {x: -81, y: 76}
+        - {x: -133, y: 54}
+        - {x: -133, y: -28}
+        - {x: -123, y: -43}
+        - {x: -115, y: -53}
+        - {x: -99, y: -70}
+        - {x: -85, y: -77}
+        - {x: 2, y: -77}
+        - {x: 36, y: -74}
+        - {x: 77, y: -62}
+        - {x: 133, y: -29}
+        - {x: 133, y: 77}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

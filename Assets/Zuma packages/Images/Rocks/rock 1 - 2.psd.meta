@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: c9117f8f313e2c0478e059b5299a4a04
+timeCreated: 1480931313
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rock 1 - 2_0
+    21300002: rock 1 - 2_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rock 1 - 2_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 128
+        width: 242
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.526512, y: -82.80304}
+        - {x: 34.526512, y: -39.80304}
+        - {x: 34.526512, y: -35.80304}
+        - {x: 35.526512, y: -34.80304}
+        - {x: 35.526512, y: -30.80304}
+        - {x: 36.526512, y: -29.80304}
+        - {x: 36.526512, y: -24.80304}
+        - {x: 37.526512, y: -23.80304}
+        - {x: 38.526512, y: -13.80304}
+        - {x: 39.526512, y: -8.80304}
+        - {x: 40.526512, y: 3.1969604}
+        - {x: 39.526512, y: -7.8030396}
+        - {x: 39.526512, y: -13.80304}
+        - {x: 38.526512, y: -14.80304}
+        - {x: 37.526512, y: -24.80304}
+        - {x: 36.526512, y: -25.80304}
+        - {x: 36.526512, y: -31.80304}
+        - {x: 35.526512, y: -32.80304}
+        - {x: 35.526512, y: -37.80304}
+        - {x: 34.526512, y: -38.80304}
+        - {x: 34.526512, y: -45.80304}
+        - {x: 33.526512, y: -46.80304}
+        - {x: 27.526512, y: -86.80304}
+        - {x: 25.526512, y: -92.80304}
+        - {x: 18.526512, y: -140.80304}
+        - {x: 18.526512, y: -149.80304}
+        - {x: 56.526512, y: -149.80304}
+        - {x: 87.52651, y: -145.80304}
+        - {x: 107.52651, y: -124.80304}
+        - {x: 107.52651, y: 151.19696}
+        - {x: -85.47349, y: 151.19696}
+        - {x: -106.47349, y: 140.19696}
+        - {x: -107.47349, y: 127.19696}
+        - {x: -107.47349, y: -149.80304}
+        - {x: 15.526512, y: -149.80304}
+        - {x: 17.526512, y: -140.80304}
+        - {x: 21.526512, y: -118.80304}
+        - {x: 23.526512, y: -102.80304}
+    - name: rock 1 - 2_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 120
+        width: 141
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.532196, y: 28.090904}
+        - {x: -62.532196, y: -25.909096}
+        - {x: -54.532196, y: -26.909096}
+        - {x: 48.467804, y: -26.909096}
+        - {x: 58.467804, y: -21.909096}
+        - {x: 63.467804, y: -3.9090958}
+        - {x: 63.467804, y: 28.090904}
+      - - {x: 60.467804, y: -18.909096}
+        - {x: 62.467804, y: -20.909096}
+        - {x: 63.467804, y: -20.909096}
+        - {x: 63.467804, y: -8.909096}
+        - {x: 60.467804, y: -9.909096}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

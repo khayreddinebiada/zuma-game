@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: f6c24691ed1e1be48ab70246992d3a1a
+timeCreated: 1480230327
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flowers_0
+    21300002: flowers_1
+    21300004: flowers_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: flowers_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 171
+        width: 350
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 175, y: 59}
+        - {x: 163, y: 80}
+        - {x: 109, y: 92}
+        - {x: 141, y: 161}
+        - {x: 22, y: 161}
+        - {x: -48, y: 141}
+        - {x: -73, y: 114}
+        - {x: -139, y: 104}
+        - {x: -175, y: 76}
+        - {x: -175, y: -23}
+        - {x: -164, y: -20}
+        - {x: -126, y: 18}
+        - {x: -69, y: -18}
+        - {x: -28, y: -72}
+        - {x: 37, y: -161}
+        - {x: 54, y: -161}
+        - {x: 87, y: -71}
+        - {x: 94, y: -12}
+        - {x: 175, y: 19}
+      - - {x: 163, y: -159}
+        - {x: 163, y: -161}
+        - {x: 175, y: -161}
+        - {x: 175, y: -149}
+        - {x: 173, y: -149}
+    - name: flowers_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 35
+        width: 454
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 218, y: 50}
+        - {x: 201, y: 53}
+        - {x: 223, y: 111}
+        - {x: 227, y: 142}
+        - {x: 227, y: 148}
+        - {x: 225, y: 149}
+        - {x: 167, y: 149}
+        - {x: 157, y: 100}
+        - {x: 87, y: 94}
+        - {x: 65, y: 89}
+        - {x: 0, y: 100}
+        - {x: -80, y: 45}
+        - {x: -95, y: -18}
+        - {x: -138, y: 22}
+        - {x: -159, y: -38}
+        - {x: -227, y: -35}
+        - {x: -227, y: -101}
+        - {x: -175, y: -149}
+        - {x: -34, y: -149}
+        - {x: 91, y: -90}
+        - {x: 227, y: 29}
+        - {x: 227, y: 46}
+      - - {x: -227, y: 149}
+        - {x: -227, y: 67}
+        - {x: -223, y: 67}
+        - {x: -211, y: 85}
+        - {x: -211, y: 141}
+        - {x: -216, y: 149}
+    - name: flowers_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 297
+        width: 216
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -118}
+        - {x: -52, y: -120}
+        - {x: -52, y: -150}
+        - {x: -43, y: -156}
+        - {x: -6, y: -156}
+        - {x: -6, y: -124}
+        - {x: -9, y: -118}
+      - - {x: -98, y: 156}
+        - {x: -108, y: 88}
+        - {x: -108, y: 71}
+        - {x: -74, y: 44}
+        - {x: -54, y: 44}
+        - {x: -52, y: 46}
+        - {x: -46, y: 46}
+        - {x: -95, y: 25}
+        - {x: -108, y: 14}
+        - {x: -108, y: -45}
+        - {x: -97, y: -46}
+        - {x: 63, y: -156}
+        - {x: 78, y: -156}
+        - {x: 108, y: 2}
+        - {x: 108, y: 156}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
